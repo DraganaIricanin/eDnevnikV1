@@ -1,1 +1,1 @@
-# eDnevnikV1
+# Moja pocetna verzija
